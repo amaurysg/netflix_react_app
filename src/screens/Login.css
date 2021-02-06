@@ -87,3 +87,30 @@
   cursor: pointer;
   font-weight: 600;
 }
+
+@media (max-width: 600px) {
+  .loginScreen__body {
+    top: 15%;
+  }
+  .loginScreen__body > h1 {
+    font-size: 2.5rem;
+  }
+  .loginScreen__body > h2 {
+    font-size: 1.5rem;
+  }
+  .loginScreen__body > h3 {
+    font-size: 0.8rem;
+  }
+  .loginScreen__input > form {
+    display: flex;
+    flex-direction: column;
+  }
+  .loginScreen__input > form > input {
+    width: 100%;
+    font-size: 18px;
+  }
+  .loginScreen_getStarted {
+    align-self: center;
+    margin-top: 10px;
+  }
+}
