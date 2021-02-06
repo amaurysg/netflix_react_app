@@ -55,3 +55,18 @@
   border: none;
   cursor: pointer;
 }
+
+@media (max-width: 600px) {
+  .profileScreen__body > h1 {
+    font-size: 45px;
+    text-align: center;
+  }
+  .profileScreen__body {
+    padding-top: 25%;
+    width: 80%;
+  }
+  .profileScreen__info {
+    display: inline-block;
+    text-align: center;
+  }
+}
