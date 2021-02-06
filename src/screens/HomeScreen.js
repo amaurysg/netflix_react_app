@@ -1,9 +1,9 @@
 import React from 'react'
-import Banner from './Banner'
-import Nav from './Nav'
-import './HomeScreen.css'
-import Row from './Row'
-import requests from './Requests'
+import Banner from '../Banner'
+import Nav from '../Nav'
+import '../screens/HomeScreen.css'
+import Row from '../Row'
+import requests from '../Requests'
 
 
 const HomeScreen = () => {

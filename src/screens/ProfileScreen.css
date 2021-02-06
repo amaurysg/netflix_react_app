@@ -1,0 +1,13 @@
+.profileScreen {
+  height: 100vh;
+  color: white;
+}
+
+.profileScreen__body {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 8%;
+  max-width: 800px;
+}
