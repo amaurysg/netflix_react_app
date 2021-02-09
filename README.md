@@ -3,13 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 [![2021-02-09-14h05-39.png](https://i.postimg.cc/ry1XvvRz/2021-02-09-14h05-39.png)](https://postimg.cc/bdwBnVTj)
-[2021-02-09-14h09-10.png](https://postimg.cc/mzYFVGG2)
 
-[url=https://postimg.cc/mzYFVGG2][img]https://i.postimg.cc/mzYFVGG2/2021-02-09-14h09-10.png[/img][/url]
-
-[url=https://postimg.cc/0rvSjrp6][img]https://i.postimg.cc/0rvSjrp6/2021-02-09-14h10-45.png[/img][/url]
-
-[url=https://postimg.cc/3030cbKj][img]https://i.postimg.cc/3030cbKj/2021-02-09-14h11-26.png[/img][/url]
+[![2021-02-09-14h09-10.png](https://i.postimg.cc/LX7B9HCf/2021-02-09-14h09-10.png)](https://postimg.cc/mzYFVGG2)
 
 
 In the project directory, you can run:
