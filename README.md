@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![2021-02-09-14h10-45.png](https://i.postimg.cc/BZLBhKbC/2021-02-09-14h10-45.png)](https://netflix-react-app-c791c.web.app/)
 [![2021-02-09-14h11-26.png](https://i.postimg.cc/J0k3t9vF/2021-02-09-14h11-26.png)](https://netflix-react-app-c791c.web.app/)
 [![2021-02-09-14h05-39.png](https://i.postimg.cc/ry1XvvRz/2021-02-09-14h05-39.png)](https://netflix-react-app-c791c.web.app/)
+[![2021-02-09-14h07-57.png](https://i.postimg.cc/VN8XHrxJ/2021-02-09-14h07-57.png)](https://netflix-react-app-c791c.web.app/)
 [![2021-02-09-14h09-10.png](https://i.postimg.cc/LX7B9HCf/2021-02-09-14h09-10.png)](https://netflix-react-app-c791c.web.app/)
+[![2021-02-09-14h31-33.png](https://i.postimg.cc/jdK0tKGB/2021-02-09-14h31-33.png)](https://netflix-react-app-c791c.web.app/)
 [![2021-02-09-14h21-08.png](https://i.postimg.cc/cHV9DMNV/2021-02-09-14h21-08.png)](https://netflix-react-app-c791c.web.app/)
 
 ## Available Scripts
